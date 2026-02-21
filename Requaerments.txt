@@ -1,0 +1,5 @@
+Python3 3.8
+pip install pyserial cryptography pystray pillow
+pip uninstall cryptography -y
+pip install cryptography==40.0.2
+
